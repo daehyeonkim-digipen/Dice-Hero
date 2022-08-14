@@ -1,0 +1,108 @@
+President: Claude Comair
+Instructor: KiKyeong Lim, David Ly
+Teaching Assistant: Jina Hyun, Haewon Shon
+
+Producer: Daehyeon Kim
+Technical Director: Junsu Jang
+Lead Designer: Taeju Kwon
+Test Manager: Jihyeon Song
+
+Special Thanks
+Sunghwan Choi
+Haneul Lee
+Chulseung Lee
+Duho Choi
+Jonghyeon Lee
+Hojun An
+Eunwoo Jang
+Younjae Lee
+
+All BGM: Scott Buckly
+https://www.scottbuckley.com.au/library/
+
+Character Die Sound Effects 
+https://freesound.org/people/AmeAngelofSin/sounds/345049/
+https://freesound.org/people/Under7dude/sounds/163442/
+
+Attack Sound Effects
+https://mixkit.co/free-sound-effects/sword/
+https://opengameart.org/content/spell-4-fire
+https://freesound.org/people/Willlewis/sounds/244345/
+https://opengameart.org/content/punch-slap-n-kick
+https://freesound.org/people/Twisted_Euphoria/sounds/205938/
+https://freesound.org/people/Erdie/sounds/65734/
+https://mixkit.co/free-sound-effects/fire/
+https://mixkit.co/free-sound-effects/spell/
+https://mixkit.co/free-sound-effects/spell/
+
+Skill Icon
+https://opengameart.org/content/random-rpg-icons-part-1
+
+Notice Board and Warning Circle
+https://www.gamedevmarket.net/asset/fantasy-wooden-gui-free/
+
+Ingame shop
+https://opengameart.org/content/flare-mod-peddler-goblin
+https://opengameart.org/content/fantasy-tower-dark
+
+Ingame Background
+https://pixabay.com/vectors/inferno-flames-fire-hot-light-295131/
+
+Monster and Boss
+https://opengameart.org/content/js-monsters-aeon-monsters-i
+https://opengameart.org/content/you-confront-the-mobile-cactus
+https://opengameart.org/content/scorpy-scorp-side-scroller-enemy
+https://opengameart.org/content/js-monster-set-elementals-iii
+https://opengameart.org/content/lpc-golem
+https://opengameart.org/content/more-rpg-enemies-foxblinks-upscale
+https://opengameart.org/content/rpg-enemies-11-dragons
+
+Attack Effect Sprite
+https://opengameart.org/content/weapon-slash-effect
+https://opengameart.org/content/arcane-magic-effect
+https://opengameart.org/content/weapon-slash-effect
+
+Skill Effect Sprite
+https://opengameart.org/content/fireball-effect-2
+https://opengameart.org/content/2d-explosion-animations-frame-by-frame
+https://opengameart.org/content/barrier-sprite-sheet
+https://opengameart.org/content/alot-of-particles-circle-flame-special-effect-alotofparticles10
+
+Material Images
+Chapter1
+https://opengameart.org/content/warm-colored-enviroment-3-trees-3-stones-2-bushes-2-grass
+https://opengameart.org/content/resource-icons
+https://opengameart.org/content/real-marble-textures-collection-set-1
+https://opengameart.org/content/dungeon-crawl-32x32-tiles
+https://opengameart.org/content/some-plants
+https://pixabay.com/ko/illustrations/%ED%95%B4%EB%A6%AC-%ED%8F%AC%ED%84%B0-alraune-3973078/
+
+Chapter2
+https://opengameart.org/content/cactus-3
+https://opengameart.org/content/scorpy-scorp-side-scroller-enemy 
+https://opengameart.org/content/dungeon-crawl-32x32-tiles
+
+Chapter3
+https://opengameart.org/content/drawn-rpg-inventory-icons-for-ardentryst-by-jordan-trudgett
+https://opengameart.org/content/zombie-ui-pack
+https://opengameart.org/content/lpc-ore-and-forge
+https://opengameart.org/content/various-inventory-24-pixel-icon-set
+https://opengameart.org/content/dungeon-crawl-32x32-tiles
+https://opengameart.org/content/tower-defence-basic-towers
+https://opengameart.org/content/dungeon-crawl-32x32-tiles
+
+Chapter4
+https://pixabay.com/ko/vectors/%EB%82%9C%ED%8C%8C%EC%84%A0-%EC%84%A0%EB%B0%95-%EB%B2%84%EB%A0%A4%EC%A7%84-%EB%8C%80%ED%95%99%EC%82%B4-575907/
+https://opengameart.org/content/dungeon-crawl-32x32-tiles
+https://opengameart.org/content/gold-treasure-icons
+
+Chapter5
+https://opengameart.org/content/lpc-ore-and-forge
+https://opengameart.org/content/dungeon-crawl-32x32-tiles
+https://opengameart.org/content/cc0-gem-icons
+
+Chapter6
+https://opengameart.org/content/lpc-ore-and-forge
+https://opengameart.org/content/dungeon-crawl-32x32-tiles
+https://pixabay.com/ko/illustrations/%EC%86%90-%ED%95%A0%EB%A1%9C%EC%9C%88-%EA%B3%B5%ED%8F%AC-%EC%8B%9C%EC%B2%B4-5205620/
+https://opengameart.org/content/dungeon-crawl-32x32-tiles

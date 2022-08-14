@@ -1,0 +1,81 @@
+Name: Daehyeon Kim
+
+Role: Producer
+
+Contribution
+Design: All
+Code: Scene Manager, Button and UI, Effect, Skill, Tile, Main game Contents.
+
+Worked File List
+0_0_splash.cpp
+0_0_splash.h
+0_1_play_scene.cpp
+0_1_play_scene.h
+1_0_2_quest.cpp
+1_0_2_quest.h
+1_0_3_forge.cpp
+1_0_3_forge.h
+1_0_4_chamber.cpp
+1_0_4_chamber.h
+1_0_5_inventory.cpp
+1_0_5_inventory.h
+1_0_6_stat.cpp
+1_0_6_stat.h
+1_0_main_scene.cpp
+1_0_main_screen.h
+1_1_ingame_screen.cpp
+1_1_ingame_screen.h
+1_2_endgame_screen.cpp
+1_2_endgame_screen.h
+2_setting_scene.cpp
+2_setting_scene.h
+3_1_ending_scene.h
+3_credit_scene.cpp
+3_credit_scene.h
+Arts.cpp
+Arts.h
+AttackEffect.h
+equipment.h
+essence.h
+GameDataManager.cpp
+GameDataManager.h
+game_header.cpp
+game_header.h
+IngameObjectManager.cpp
+Ingame_image.h
+item.h
+MagicEffect.h
+main.cpp
+main_header.h
+material.h
+monster.cpp
+MonsterSpawn.cpp
+quest_info.h
+resource1.h
+scene_manager.cpp
+scene_manager.h
+skill.h
+skills.h
+tile.cpp
+tile.h
+top_header.h
+UI.cpp
+
+Note
+Last semester, I completed GAM100 only enough to get a reasonable score. 
+But I didn't come to DigiPen to get points, came to DigiPen to study, and I thought something should be different. 
+So I designed the game with great ambition, and considering that it was my first attempt in my life, I think it was made well. 
+By choosing the RPG genre, I could learn so much that I had no regrets about whatever grade I got.
+
+However, I often regretted because my team members worked too hard and struggled to produce the results I wanted. 
+I don't remember taking a break on the weekend, and I had a big conflict with the team member that she couldn't produce the results I wanted and couldn't keep up with the schedule I made. 
+The size of the game was so big that it was hard to explain it within the time limit for each presentation, and I was criticized by professors every time, and my determination to accept students in need as a team and help them grow up together turned into scolding them.
+
+All the ideas were made by me, or I got involved. 
+When I heard compliments, I became everyone's, but when I was pointed out, I felt like I was responsible for myself, and I blamed myself dozens of times. 
+Even at this moment of submission, I feel guilty that I might not be able to help my friends' grades, and that I might not be able to give a corresponding grade to a friend who trusted me and made high-quality coding.
+I can throw away my greed for my own grades, but I can't throw away my fear of damaging others' grades.
+
+I think maybe the most learned thing is leadership. 
+Hasty ambition makes me blame myself for making my team members suffer and my team members suffer. 
+In this semester's GAM150, I learned that studying without regrets is important, but teamwork should not be ruled out.

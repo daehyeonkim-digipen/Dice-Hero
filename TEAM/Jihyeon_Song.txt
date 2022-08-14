@@ -1,0 +1,39 @@
+Name: Jihyeon Song
+
+Role: Test manager
+
+Contribution: UI, item, assets
+
+Worked File List:
+0_1_play_scene.h
+0_1_play_scene.cpp
+1_0_2_quest.cpp
+1_0_2_quest.h
+1_0_3_forge.cpp
+1_0_3_forge.h
+1_0_4_chamber.cpp
+1_0_4_chamber.h
+1_0_5_inventory.cpp
+1_0_5_inventory.h
+1_0_6_stat.cpp
+1_0_6_stat.h
+1_0_main_screen.h
+3_credit_scene.cpp
+equipment.h
+essence.h
+game_header.h
+game_header.cpp
+Ingame_image.h
+item.h
+main.cpp
+main_header.h
+material.h
+skill.h
+top_header.h
+UI.cpp
+UI.h
+
+
+
+Note:
+During the semester, I learned a lot about collaboration and coding knowledge. And compared to the time invested, it didn't produce many results. That's because I lacked experience and skills. So I thought I should study and code more efficiently. In order to make a better game, I will design the game to consider scope and do object-oriented coding. I appreciated my team members, and it was a meaningful project to grow.

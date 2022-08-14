@@ -1,0 +1,342 @@
+level: 50
+money: 10000001440
+exp: 51
+expGoal: 469
+clear: 1
+openStage: 42
+skillPoint: 810
+Matrial: Mandragora 4
+Matrial: Stone 4
+Matrial: Marble 5
+Matrial: Battery 5
+Matrial: Hellfire 7
+Matrial: Firewood 5
+Matrial: Esca 5
+Matrial: Lubricant 5
+Matrial: Pearl 5
+Matrial: Soul 5
+Matrial: Sulfur 6
+Matrial: Sapling 5
+Matrial: Diamond 5
+Essence: Small Essence of Underground
+5
+Essence: Small Essence of Abyss
+5
+Essence: Medium Essence of Hell
+5
+Essence: Huge Essence of Desert
+5
+Essence: Huge Essence of Skypia
+5
+Essence: Large Essence of Skypia
+5
+Essence: Large Essence of Underground
+5
+Essence: Medium Essence of Desert
+5
+Essence: Huge Essence of Forest
+5
+Essence: Small Essence of Hell
+5
+Essence: Large Essence of Forest
+6
+Essence: Small Essence of Forest
+5
+Essence: Small Essence of Desert
+4
+Essence: Large Essence of Hell
+5
+Essence: Huge Essence of Hell
+2
+Essence: Huge Essence of Abyss
+5
+Essence: Medium Essence of Forest
+5
+Essence: Medium Essence of Underground
+5
+Essence: Large Essence of Desert
+5
+Essence: Large Essence of Abyss
+5
+Essence: Medium Essence of Skypia
+5
+Essence: Small Essence of Skypia
+5
+Essence: Huge Essence of Underground
+5
+Essence: Medium Essence of Abyss
+5
+Equipment: Sturdy Sword of Forest
+1
+Equipment: Shining Sword of Forest
+5
+Equipment: Sturdy Armor of Forest
+5
+Equipment: Shining Knuckle of Forest
+5
+Equipment: Shabby Knuckle of Forest
+5
+Equipment: Shining Wand of Forest
+5
+Equipment: Standard Knuckle of Forest
+5
+Equipment: Sturdy Knuckle of Forest
+5
+Equipment: Shabby Wand of Forest
+5
+Equipment: Standard Wand of Forest
+5
+Equipment: Sturdy Wand of Forest
+5
+Equipment: Standard Sword of Forest
+5
+Equipment: Shabby Sword of Forest
+5
+Equipment: Sturdy Armor of Skypia
+5
+Equipment: Sturdy Armor of Desert
+5
+Equipment: Standard Armor of Skypia
+5
+Equipment: Shining Armor of Forest
+5
+Equipment: Shining Armor of Desert
+5
+Equipment: Shabby Armor of Skypia
+5
+Equipment: Standard Armor of Desert
+5
+Equipment: Shabby Armor of Desert
+5
+Equipment: Standard Bow of Forest
+5
+Equipment: Shabby Bow of Forest
+5
+Equipment: Sturdy Bow of Forest
+5
+Equipment: Standard Sword of Desert
+5
+Equipment: Shabby Wand of Desert
+5
+Equipment: Sturdy Sword of Desert
+5
+Equipment: Shabby Sword of Desert
+5
+Equipment: Standard Wand of Desert
+5
+Equipment: Sturdy Wand of Desert
+5
+Equipment: Standard Knuckle of Desert
+5
+Equipment: Shining Sword of Desert
+5
+Equipment: Shabby Knuckle of Desert
+5
+Equipment: Shining Wand of Desert
+5
+Equipment: Sturdy Knuckle of Desert
+5
+Equipment: Shining Knuckle of Desert
+5
+Equipment: Shining Bow of Forest
+5
+Equipment: Sturdy Knuckle of Skypia
+5
+Equipment: Sturdy Bow of Desert
+5
+Equipment: Shining Sword of Skypia
+5
+Equipment: Standard Wand of Skypia
+5
+Equipment: Sturdy Wand of Skypia
+5
+Equipment: Standard Bow of Desert
+5
+Equipment: Standard Sword of Skypia
+5
+Equipment: Shining Wand of Skypia
+5
+Equipment: Shining Bow of Desert
+5
+Equipment: Shabby Sword of Skypia
+5
+Equipment: Sturdy Sword of Skypia
+5
+Equipment: Shabby Bow of Desert
+5
+Equipment: Shabby Wand of Skypia
+5
+Equipment: Shabby Knuckle of Skypia
+5
+Equipment: Standard Knuckle of Skypia
+5
+Equipment: Shining Knuckle of Skypia
+5
+Equipment: Shabby Sword of Abyss
+5
+Equipment: Sturdy Sword of Abyss
+5
+Equipment: Shabby Bow of Skypia
+5
+Equipment: Sturdy Bow of Skypia
+5
+Equipment: Shabby Wand of Abyss
+5
+Equipment: Shining Knuckle of Abyss
+5
+Equipment: Shining Wand of Abyss
+5
+Equipment: Shining Sword of Abyss
+5
+Equipment: Standard Knuckle of Abyss
+5
+Equipment: Standard Wand of Abyss
+5
+Equipment: Shabby Knuckle of Abyss
+5
+Equipment: Shining Bow of Skypia
+5
+Equipment: Standard Bow of Skypia
+5
+Equipment: Sturdy Knuckle of Abyss
+5
+Equipment: Sturdy Wand of Abyss
+5
+Equipment: Standard Sword of Abyss
+5
+Equipment: Sturdy Armor of Abyss
+5
+Equipment: Standard Armor of Abyss
+5
+Equipment: Shining Armor of Abyss
+5
+Equipment: Sturdy Armor of Underground
+2
+Equipment: Shining Armor of Underground
+5
+Equipment: Standard Armor of Underground
+5
+Equipment: Standard Armor of Hell
+5
+Equipment: Sturdy Armor of Hell
+5
+Equipment: Shining Armor of Hell
+0
+Equipment: Shabby Armor of Hell
+5
+Equipment: Shining Armor of Skypia
+5
+Equipment: Shabby Armor of Underground
+5
+Equipment: Shabby Armor of Abyss
+5
+Equipment: Standard Sword of Underground
+5
+Equipment: Shining Wand of Underground
+5
+Equipment: Standard Wand of Underground
+5
+Equipment: Shabby Sword of Underground
+5
+Equipment: Sturdy Sword of Underground
+5
+Equipment: Sturdy Bow of Abyss
+5
+Equipment: Shabby Bow of Abyss
+5
+Equipment: Shabby Knuckle of Underground
+5
+Equipment: Shining Bow of Abyss
+5
+Equipment: Shining Sword of Underground
+5
+Equipment: Standard Bow of Abyss
+5
+Equipment: Shabby Wand of Underground
+5
+Equipment: Standard Knuckle of Underground
+5
+Equipment: Sturdy Knuckle of Underground
+5
+Equipment: Shining Knuckle of Underground
+5
+Equipment: Sturdy Wand of Underground
+5
+Equipment: Shabby Armor of Forest
+5
+Equipment: Standard Armor of Forest
+5
+Equipment: Shabby Bow of Underground
+5
+Equipment: Shining Wand of Hell
+4
+Equipment: Sturdy Knuckle of Hell
+5
+Equipment: Sturdy Bow of Underground
+5
+Equipment: Shabby Sword of Hell
+5
+Equipment: Sturdy Wand of Hell
+5
+Equipment: Shabby Wand of Hell
+5
+Equipment: Standard Knuckle of Hell
+5
+Equipment: Sturdy Sword of Hell
+5
+Equipment: Standard Wand of Hell
+5
+Equipment: Shining Knuckle of Hell
+4
+Equipment: Standard Sword of Hell
+5
+Equipment: Shining Bow of Underground
+5
+Equipment: Standard Bow of Underground
+5
+Equipment: Shining Sword of Hell
+4
+Equipment: Shabby Knuckle of Hell
+5
+Equipment: Sturdy Bow of Hell
+5
+Equipment: Shabby Bow of Hell
+2
+Equipment: Standard Bow of Hell
+5
+Equipment: Shining Bow of Hell
+4
+WarriorTree
+1
+1
+1
+1
+1
+MageTree
+1
+1
+1
+1
+ThiefTree
+1
+1
+1
+1
+1
+ArcherTree
+1
+1
+1
+1
+1
+1
+WarriorArmor: Shining Armor of Hell
+WarriorWeapon: Shining Sword of Hell
+MageArmor: Shining Armor of Hell
+MageWeapon: Shining Wand of Hell
+ThiefArmor: Shining Armor of Hell
+ThiefWeapon: Shining Knuckle of Hell
+ArcherArmor: Shining Armor of Hell
+ArcherWeapon: Shining Bow of Hell
+SoundScale: 48.2639
+BGMScale: 67.3611

@@ -1,0 +1,22 @@
+4 32 32 1 1 Name: Slime . 
+5 32 32 1 1 Name: Fairy .
+6 32 32 2 2 Name: Wolf .
+
+90 48 48 18 18 Name: Mummy .
+60 32 32 12 12 Name: Scorpion .
+55 48 48 10 10 Name: Cactus .
+
+1000 64 64 200 200 Name: Steel Alloy Guard .
+800 64 64 160 160 Name: Steel Auto Turret .
+
+5000 48 48 1000 1000 Name: Sea Snake .
+7000 48 48 1400 1400 Name: The Soul of a Shipwreck . 
+11000 48 48 2200 2200 Name: Himantolophus groenlandicus . 
+
+210000 32 32 42000 42000 Name: Imp . 
+300000 48 48 60000 60000 Name: Hound of Hell . 
+300000 48 48 60000 200000 Name: Mimic . 
+
+4000000 48 48 800000 800000 Name: Efreet . 
+7000000 96 96 1400000 1400000 Name: Devil . 
+3000000 64 64 600000 600000 Name: Basilisk . 

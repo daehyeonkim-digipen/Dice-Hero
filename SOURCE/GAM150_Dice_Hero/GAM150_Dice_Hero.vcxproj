@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Rel|x64">
+      <Configuration>Rel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="0_0_splash.cpp" />
+    <ClCompile Include="0_1_play_scene.cpp" />
+    <ClCompile Include="1_0_3_forge.cpp" />
+    <ClCompile Include="1_0_4_chamber.cpp" />
+    <ClCompile Include="1_0_5_inventory.cpp" />
+    <ClCompile Include="1_0_6_stat.cpp" />
+    <ClCompile Include="1_2_endgame_screen.cpp" />
+    <ClCompile Include="2_setting_scene.cpp" />
+    <ClCompile Include="3_1_ending_scene.cpp" />
+    <ClCompile Include="3_credit_scene.cpp" />
+    <ClCompile Include="1_0_2_quest.cpp" />
+    <ClCompile Include="1_0_main_scene.cpp" />
+    <ClCompile Include="1_1_ingame_screen.cpp" />
+    <ClCompile Include="AttackEffect.cpp" />
+    <ClCompile Include="dice.cpp" />
+    <ClCompile Include="GameDataManager.cpp" />
+    <ClCompile Include="IngameObjectManager.cpp" />
+    <ClCompile Include="ingameshop.cpp" />
+    <ClCompile Include="Ingame_magic.cpp" />
+    <ClCompile Include="Ingame_tutorial.cpp" />
+    <ClCompile Include="MagicEffect.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="monster.cpp" />
+    <ClCompile Include="game_header.cpp" />
+    <ClCompile Include="MonsterSpawn.cpp" />
+    <ClCompile Include="scene_manager.cpp" />
+    <ClCompile Include="Arts.cpp" />
+    <ClCompile Include="tile.cpp" />
+    <ClCompile Include="token.cpp" />
+    <ClCompile Include="UI.cpp" />
+    <ClCompile Include="WinMain.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="0_0_splash.h" />
+    <ClInclude Include="1_0_3_forge.h" />
+    <ClInclude Include="1_0_4_chamber.h" />
+    <ClInclude Include="1_0_5_inventory.h" />
+    <ClInclude Include="1_0_6_stat.h" />
+    <ClInclude Include="1_2_endgame_screen.h" />
+    <ClInclude Include="3_1_ending_scene.h" />
+    <ClInclude Include="3_credit_scene.h" />
+    <ClInclude Include="0_1_play_scene.h" />
+    <ClInclude Include="1_0_2_quest.h" />
+    <ClInclude Include="AttackEffect.h" />
+    <ClInclude Include="dice.h" />
+    <ClInclude Include="1_0_main_screen.h" />
+    <ClInclude Include="1_1_ingame_screen.h" />
+    <ClInclude Include="Effect.h" />
+    <ClInclude Include="EffectStar.h" />
+    <ClInclude Include="Effect_base.h" />
+    <ClInclude Include="equipment.h" />
+    <ClInclude Include="GameDataManager.h" />
+    <ClInclude Include="Essence.h" />
+    <ClInclude Include="IngameObjectManager.h" />
+    <ClInclude Include="IngameSceneHelper.h" />
+    <ClInclude Include="ingameShop.h" />
+    <ClInclude Include="Ingame_magic.h" />
+    <ClInclude Include="item.h" />
+    <ClInclude Include="MagicEffect.h" />
+    <ClInclude Include="main_header.h" />
+    <ClInclude Include="material.h" />
+    <ClInclude Include="monster.h" />
+    <ClInclude Include="game_header.h" />
+    <ClInclude Include="monsterSpawn.h" />
+    <ClInclude Include="portrait.h" />
+    <ClInclude Include="quest_info.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="RGB.h" />
+    <ClInclude Include="scene_manager.h" />
+    <ClInclude Include="2_setting_scene.h" />
+    <ClInclude Include="Ingame_image.h" />
+    <ClInclude Include="Arts.h" />
+    <ClInclude Include="skill.h" />
+    <ClInclude Include="skills.h" />
+    <ClInclude Include="TextEvent.h" />
+    <ClInclude Include="tile.h" />
+    <ClInclude Include="token.h" />
+    <ClInclude Include="top_header.h" />
+    <ClInclude Include="UI.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="GAM150_Dice_Hero.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\icon.ico" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <ProjectGuid>{A81EA995-C18D-4C2C-80A9-E4F1B3AE36D8}</ProjectGuid>
+    <RootNamespace>GAM150_Dice_Hero</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Rel|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Rel|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <TargetName>GAM150_Dice_Hero</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Rel|x64'">
+    <TargetName>GAM150_Dice_Hero</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <TargetName>GAM150_Dice_Hero</TargetName>
+    <OutDir>$(SolutionDir)$(Platform)\$(Configuration)\</OutDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <EnforceTypeConversionRules>true</EnforceTypeConversionRules>
+      <AdditionalIncludeDirectories>$(SolutionDir)external\SFML\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <TreatWarningAsError>true</TreatWarningAsError>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <AdditionalDependencies>doodle.lib;Opengl32.lib;Gdi32.lib;User32.lib;sfml-audio-d.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(SolutionDir)external\SFML\$(Platform)\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+    <PostBuildEvent>
+      <Command>xcopy /y /d /s "$(ProjectDir)assets" "$(TargetDir)assets\"
+xcopy /y /d /s "$(ProjectDir)dataFile" "$(TargetDir)dataFile\"
+xcopy /y /d "$(SolutionDir)external\SFML\$(Platform)\bin\openal32.dll" "$(TargetDir)"
+xcopy /y /d "$(SolutionDir)external\SFML\$(Platform)\bin\sfml-audio-d-2.dll" "$(TargetDir)"
+xcopy /y /d "$(SolutionDir)external\SFML\$(Platform)\bin\sfml-system-d-2.dll" "$(TargetDir)"</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Rel|x64'">
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <EnforceTypeConversionRules>true</EnforceTypeConversionRules>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <TreatWarningAsError>true</TreatWarningAsError>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <AdditionalDependencies>doodle.lib;Opengl32.lib;Gdi32.lib;User32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(SolutionDir)external\SFML-2.5.1\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+    <PostBuildEvent>
+      <Command>xcopt /y /d "(SolutionDir)external\SFML-2.5.1\bin\openal32.dll" "$(TargetDir)"
+xcopt /y /d "(SolutionDir)external\SFML-2.5.1\bin\sfml-audio-2.dll" "$(TargetDir)"
+xcopt /y /d "(SolutionDir)external\SFML-2.5.1\bin\sfml-system-2.dll" "$(TargetDir)"</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <EnforceTypeConversionRules>true</EnforceTypeConversionRules>
+      <AdditionalIncludeDirectories>$(SolutionDir)external\SFML\include;$(SolutionDir)external\doodle\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <TreatWarningAsError>true</TreatWarningAsError>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>doodle.lib;Opengl32.lib;Gdi32.lib;User32.lib;sfml-audio.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(SolutionDir)external\SFML\$(Platform)\lib;$(SolutionDir)external\doodle\bin\$(Configuration)\$(Platform);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+    <PostBuildEvent>
+      <Command>xcopy /y /d /s "$(ProjectDir)assets" "$(TargetDir)assets\"
+xcopy /y /d /s "$(ProjectDir)dataFile" "$(TargetDir)dataFile\"
+xcopy /y /d "$(SolutionDir)external\SFML\$(Platform)\bin\openal32.dll" "$(TargetDir)"
+xcopy /y /d "$(SolutionDir)external\SFML\$(Platform)\bin\sfml-audio-2.dll" "$(TargetDir)"
+xcopy /y /d "$(SolutionDir)external\SFML\$(Platform)\bin\sfml-system-2.dll" "$(TargetDir)"</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

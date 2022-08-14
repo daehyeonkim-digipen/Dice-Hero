@@ -1,0 +1,12 @@
+Name: Taeju Kwon
+Role: Lead Designer
+Contribution: arts, coding support
+Worked File List:
+1_0_3_forge.cpp
+1_1_ingame_screen.cpp
+Arts.cpp
+Arts.h
+equipment.h
+skill.h
+
+Note: During this project, I realized that my coding skills were not enough to make games, so I think it will be an motivation to try to improve my skills. And while on the project whith people who are good at coding, I learned what I lacked about, and how I needed to approach it.

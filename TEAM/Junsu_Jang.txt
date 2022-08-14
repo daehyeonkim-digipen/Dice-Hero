@@ -1,0 +1,60 @@
+Name: Junsu Jang
+
+Role: Technical Director
+
+Contribution: 
+Ingame system(quest play), 
+End game scene(clear, fail), 
+Character behavior(token, dice, skill, magic), 
+Boss AI(pattern), 
+Save and load, 
+Effect(non image effects)
+
+Worked File List:
+0_0_splash.cpp
+0_1_play_scene.cpp
+1_1_ingame_screen.cpp
+1_1_ingame_screen.h
+1_2_endgame_screen.cpp
+1_2_endgame_screen.h
+3_1_ending_scene.cpp
+3_1_ending_scene.h
+dice.cpp
+dice.h
+Effect.h
+EffectStar.h
+Effect_base.h
+equipment.h
+GameDataManager.cpp
+GameDataManager.h
+game_header.cpp
+game_header.h
+IngameObjectManager.cpp
+IngameObjectManager.h
+IngameSceneHelper.h
+ingameshop.cpp
+ingameShop.h
+Ingame_image.h
+Ingame_magic.cpp
+Ingame_magic.h
+Ingame_tutorial.cpp
+main.cpp
+main_header.h
+monster.cpp
+monster.h
+MonsterSpawn.cpp
+monsterSpawn.h
+portrait.h
+quest_info.h
+RGB.h
+TextEvent.h
+tile.cpp
+tile.h
+token.cpp
+token.h
+top_header.h
+UI.cpp
+
+Note
+I realized too late that design was the biggest thing to decide on a well-made game. I should study a lot and pay attention to the design before proceeding with the next project.
+

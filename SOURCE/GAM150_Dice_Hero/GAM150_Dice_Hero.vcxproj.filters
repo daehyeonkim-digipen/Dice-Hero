@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Items">
+      <UniqueIdentifier>{c652c317-76ee-4228-b870-ad640a2fb8b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Scenes">
+      <UniqueIdentifier>{513d24c0-4210-4a4e-a60a-3a928ff5a816}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Scenes\Game Scenes">
+      <UniqueIdentifier>{c331ff90-dc38-4974-9bbd-e65796fb8cf5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Scenes\Game Scenes\In Game Scenes">
+      <UniqueIdentifier>{5a25097a-7463-40ca-989a-433cbb0b5c63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Scenes\Game Scenes\Main Game Scenes">
+      <UniqueIdentifier>{b89f398d-4efc-4f7b-a937-6b69cf0bdd24}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="equipment.h">
+      <Filter>Header Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="item.h">
+      <Filter>Header Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="material.h">
+      <Filter>Header Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="essence.h">
+      <Filter>Header Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="1_0_2_quest.h">
+      <Filter>Header Files\Scenes\Game Scenes\Main Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="1_0_3_forge.h">
+      <Filter>Header Files\Scenes\Game Scenes\Main Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="1_0_4_chamber.h">
+      <Filter>Header Files\Scenes\Game Scenes\Main Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="1_0_5_inventory.h">
+      <Filter>Header Files\Scenes\Game Scenes\Main Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="1_0_6_stat.h">
+      <Filter>Header Files\Scenes\Game Scenes\Main Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="1_0_main_screen.h">
+      <Filter>Header Files\Scenes\Game Scenes\Main Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="1_1_ingame_screen.h">
+      <Filter>Header Files\Scenes\Game Scenes\In Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="1_2_endgame_screen.h">
+      <Filter>Header Files\Scenes\Game Scenes\In Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Ingame_magic.h">
+      <Filter>Header Files\Scenes\Game Scenes\In Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="IngameObjectManager.h">
+      <Filter>Header Files\Scenes\Game Scenes\In Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="ingameShop.h">
+      <Filter>Header Files\Scenes\Game Scenes\In Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="monster.h">
+      <Filter>Header Files\Scenes\Game Scenes\In Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="monsterSpawn.h">
+      <Filter>Header Files\Scenes\Game Scenes\In Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="portrait.h">
+      <Filter>Header Files\Scenes\Game Scenes\In Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="tile.h">
+      <Filter>Header Files\Scenes\Game Scenes\In Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="token.h">
+      <Filter>Header Files\Scenes\Game Scenes\In Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Ingame_image.h">
+      <Filter>Header Files\Scenes\Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="game_header.h">
+      <Filter>Header Files\Scenes\Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="quest_info.h">
+      <Filter>Header Files\Scenes\Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="dice.h">
+      <Filter>Header Files\Scenes\Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="0_0_splash.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="0_1_play_scene.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="2_setting_scene.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="3_credit_scene.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Arts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect_base.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EffectStar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameDataManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="main_header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RGB.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="scene_manager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="skill.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="skills.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TextEvent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="top_header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AttackEffect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IngameSceneHelper.h">
+      <Filter>Header Files\Scenes\Game Scenes\In Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="MagicEffect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="3_1_ending_scene.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="0_0_splash.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="0_1_play_scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1_0_2_quest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1_0_3_forge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1_0_4_chamber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1_0_5_inventory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1_0_6_stat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1_0_main_scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1_1_ingame_screen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1_2_endgame_screen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2_setting_scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3_credit_scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Arts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="game_header.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameDataManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ingame_magic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IngameObjectManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ingameshop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="monster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterSpawn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scene_manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="token.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ingame_tutorial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3_1_ending_scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AttackEffect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MagicEffect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="GAM150_Dice_Hero.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\icon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
