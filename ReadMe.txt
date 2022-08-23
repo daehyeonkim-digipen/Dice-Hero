@@ -20,9 +20,6 @@ Skill Icon: Horror Pen(OpenGameArt) https://opengameart.org/content/random-rpg-i
 Other assets are made by team MuYaHo or free to use.
 Detail in resource list https://docs.google.com/spreadsheets/d/1es6ytiZEREq0XjrByqjQ7Wa0MpeNYlyR77I8fXJ-D6E/edit#gid=0
 
-Installation
-Press the "Dice Hero_setup.exe".
-
 How to Play
 If you start new game(select empty slot), please following the Glittering Effect. Then the player would be able to start the first stage(tutorial stage)
 roll dice, move tokens strategically. Extract the resources you've acquired from Chamber to get Essence, and purchase better equipment from Forge.
